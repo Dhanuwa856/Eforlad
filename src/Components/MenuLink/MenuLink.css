@@ -1,0 +1,11 @@
+.menu-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #fff;
+  transition: .6s;
+}
+
+.menu-link:hover {
+  color: aqua;
+}

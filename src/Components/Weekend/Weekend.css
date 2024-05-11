@@ -1,0 +1,10 @@
+.weekend {
+  margin-top: 70px;
+}
+
+.weekend img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  margin-top: 30px;
+}

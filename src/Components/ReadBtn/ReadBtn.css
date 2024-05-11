@@ -1,0 +1,24 @@
+.read-btn {
+  margin-top: 20px;
+  background: #ee580f;
+  color: #fff;
+  border: 0;
+  outline: 0;
+  text-transform: capitalize;
+  font-size: 17px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px 70px;
+  border-radius: 70px;
+  font-weight: 600;
+  font-family: "Rajdhani", sans-serif;
+  cursor: pointer;
+
+
+}
+
+.read-btn:hover {
+  background: #0adef8;
+  transition: .5s;
+}

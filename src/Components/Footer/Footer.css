@@ -1,0 +1,86 @@
+.footer {
+  margin-top: 50px;
+  background: #022739;
+  padding: 40px 0;
+}
+
+.social-icons {
+  margin-top: 20px;
+  display: flex;
+  gap: 10px;
+}
+
+.container02 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.container02 h3 {
+  color: #fff;
+  font-size: 25px;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+}
+
+.container02 p {
+  color: #fff;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.links p {
+  cursor: pointer;
+  transition: 1s;
+}
+
+.links p:hover {
+  color: burlywood;
+}
+
+.name-input {
+  display: flex;
+  gap: 2%;
+}
+
+.name-input input {
+  width: 98%;
+  height: 40px;
+}
+
+.contact textarea {
+  margin-top: 5px;
+  width: 100%;
+  height: 60px;
+  resize: none;
+}
+
+.footer-btn {
+  background: #000;
+  color: #fff;
+  border: 0;
+  outline: 0;
+  padding: 10px 20px;
+  font-weight: 800;
+  font-size: 14px;
+  text-transform: uppercase;
+  display: block;
+  margin-left: auto;
+  cursor: pointer;
+}
+
+.footer hr {
+  margin-top: 20px;
+  width: 80%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.copy-text {
+  text-align: center;
+  color: #fff;
+  font-weight: 600;
+  font-size: 14px;
+  margin-top: 10px;
+}

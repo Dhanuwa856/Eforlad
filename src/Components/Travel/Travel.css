@@ -1,0 +1,39 @@
+.travel {
+  margin-top: 60px;
+}
+
+.travel-cards {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.travel-card {
+  width: 250px;
+}
+
+.travel-card img {
+  width: 150px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.travel-card .card-title {
+  text-align: center;
+  font-size: 22px;
+  text-transform: capitalize;
+  font-weight: 400;
+  margin-top: 5px;
+}
+
+.travel-card .card-info {
+  text-align: center;
+  font-size: 17px;
+  margin-top: 5px;
+}
+
+.travel-card .card-btn button {
+  padding: 10px 30px;
+}
